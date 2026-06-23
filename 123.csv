@@ -1,11 +1,10 @@
-"Course,Start Date,End Date,Timezone,Delivery,Registration URL"
-"CCNA,2026-07-06,2026-07-10,EST,Virtual,https://www.firefly.cloud"
-"ENCOR,2026-07-13,2026-07-17,EST,Virtual,https://www.firefly.cloud"
-"ENARSI,2026-07-20,2026-07-24,EST,Virtual,https://www.firefly.cloud"
-"AI-NE,2026-07-27,2026-07-29,EST,Virtual,https://www.firefly.cloud"
-"ECMS,2026-08-03,2026-08-07,EST,Virtual,https://www.firefly.cloud"
-"SISE,2026-08-10,2026-08-14,EST,Virtual,https://www.firefly.cloud"
-"SFWIPA,2026-08-17,2026-08-21,EST,Virtual,https://www.firefly.cloud"
-"WLCOR,2026-08-24,2026-08-28,EST,Virtual,https://www.firefly.cloud"
-"CCNA Modular,2026-09-01,2026-11-03,BST,Virtual,https://www.firefly.cloud"
-"ACI Elite,2026-09-08,2026-09-10,BST,Virtual,https://www.firefly.cloud"
+Course ID,Date,CLC,Price,URL
+DCCOR,"Jul 13, 2026 CST",46,"USD 4595",REGISTER
+DCAIE,"Jul 06, 2026 BST",35,"USD 3495",REGISTER
+CCNA-MODULAR,All,42,"USD 4195",REGISTER
+ACI-ELITE,All,60,"USD 6000",REGISTER
+SFWIPA,"Jul 27, 2026 CST",40,"USD 3995",REGISTER
+CCNAAUTO,"Jul 27, 2026 CST",45,"USD 4495",REGISTER
+ECMS,"Jun 29, 2026 BST",38,"USD 3795",REGISTER
+AI-NE,"Jul 13, 2026 CST",29,"USD 2900",REGISTER
+ENCOR,"Jul 20, 2026 CST",43,"USD 4295",REGISTER
